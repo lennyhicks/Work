@@ -1,0 +1,15 @@
+//while (condition) {
+function log(msg) {
+    console.log(msg);
+}
+
+var count = 1;
+while (count <= 500000000) {
+    log(count);
+    count++
+}
+//for
+
+//foreach 
+
+//dowhile
